@@ -1,7 +1,7 @@
 group_number <- "IA-XX"
 order_number <- "00"
 
-name <- "First Name"
+name <- "Valerii Kolesnik"
 surname <- "Last Name"
 greetings <- "Hello World"
 
