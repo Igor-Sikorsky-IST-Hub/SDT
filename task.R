@@ -1,8 +1,8 @@
-group_number <- "IA-XX"
-order_number <- "00"
+group_number <- "IA-01"
+order_number <- "05"
 
-name <- "First Name"
-surname <- "Last Name"
+name <- "Yehor"
+surname <- "Hnitii"
 greetings <- "Hello World"
 
 paste(greetings, order_number, name, surname)
