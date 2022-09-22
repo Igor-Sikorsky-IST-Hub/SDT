@@ -1,5 +1,4 @@
 group_number <- "IA-01"
-<<<<<<< HEAD
 order_number <- "16"
 
 name <- "Dmytro"
