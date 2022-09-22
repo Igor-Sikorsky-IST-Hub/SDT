@@ -1,18 +1,8 @@
 group_number <- "IA-01"
-<<<<<<< HEAD
-order_number <- "06"
+order_number <- "26"
 
-name <- "Misha"
-surname <- "Hontar"
-greetings <- "Hello World and Misha"
-
-paste(greetings, order_number, name, surname)
-
-group_number <- "IA-01"
-order_number <- "05"
-
-name <- "Yehor"
-surname <- "Hnitii"
+name <- "Dima"
+surname <- "Tereshechenko"
 greetings <- "Hello World"
 
 paste(greetings, order_number, name, surname)
