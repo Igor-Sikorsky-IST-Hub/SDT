@@ -3,6 +3,6 @@ order_number <- "20"
 
 name <- "Denys"
 surname <- "Onyskiv"
-greetings <- "Hello World"
+greetings <- "HelloWorld"
 
 paste(greetings, order_number, name, surname)
