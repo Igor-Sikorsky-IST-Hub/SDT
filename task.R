@@ -1,5 +1,5 @@
 group_number <- "IA-04"
-order_number <- "IDk"
+order_number <- "24"
 
 name <- "Oleg"
 surname <- "Khalanskyi"
