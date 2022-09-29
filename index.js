@@ -7,6 +7,6 @@ let ord_num = "13";
 
 let first = "Andriulik";
 let last = "Nuhach";
-let hello = "Koks";
+let hello = "Koks, travka";
 
 root.render(<h1>{ hello }, dear { first } { last } from { gr_num }. You are { ord_num }</h1>);
