@@ -1,9 +1,9 @@
 group_number <- "IA-01"
 <<<<<<< HEAD
-order_number <- "20"
+order_number <- "1"
 
-name <- "Denys"
-surname <- "Onyskiv"
+name <- "Anna"
+surname <- "Akimova"
 greetings <- "HelloWorld"
 
 paste(greetings, order_number, name, surname)
