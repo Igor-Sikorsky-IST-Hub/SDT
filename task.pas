@@ -10,10 +10,10 @@ var
     Output: string;
 
 begin
-  FirstName := 'Your name';
-  LastName := 'Your surname';
+  FirstName := 'Oleksandr';
+  LastName := 'Shykhnenko';
   GroupNumber := -1;
-  OrderNumber := -1;
+  OrderNumber := -29;
   Greetings := 'Hello world';
   
   Output := Greetings + ', ' + FirstName + ' ' + LastName + ', IA-0' + IntToStr(GroupNumber) + ', Order: ' + IntToStr(OrderNumber);  
